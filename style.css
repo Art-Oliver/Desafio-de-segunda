@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+
+input {
+    padding: 16px;
+    border-radius: 14px;
+    background-color:#242323;
+    width: 100%;
+}
+
+button {
+    padding: 15px 20px;
+    background-color: #36b03a;
+    color:#fff;
+    border-radius: 20px; 
+    width: 110%;
+}
+
+h4{
+    color: #fff;
+}
+
